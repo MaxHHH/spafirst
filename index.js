@@ -56,7 +56,7 @@ $(()=>{
       $area.val(l1(w * h, 2));          
     });
   });
-
+//合法性校验
 function validate(data) {
   var result = {
     isOK: false,
