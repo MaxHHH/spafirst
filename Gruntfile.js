@@ -17,7 +17,6 @@ module.exports = function (grunt) {
         release:{
           files: {
             'dist/main.js': 'main.js';
-            'dist/unwrong.js': 'unwrong.js'
           }
         }
       }
