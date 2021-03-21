@@ -57,7 +57,6 @@ $(()=>{
     });
   });
 
-//数据合法性校验
 function validate(data) {
   var result = {
     isOK: false,
